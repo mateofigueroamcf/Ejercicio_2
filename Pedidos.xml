@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE listapedidos SYSTEM "Pedidos.dtd">
+<listapedidos>
+    <pedido>
+        <numeroserie>872193SKA312</numeroserie>
+        <cantidad>14</cantidad>
+    </pedido>
+</listapedidos>
